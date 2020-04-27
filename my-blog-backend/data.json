@@ -1,0 +1,23 @@
+
+// The database should be called: my-blog
+
+{
+    "_id" : ObjectId("5ea5e4aca55a8a90f71e580e"),
+    "name" : "learn-react",
+    "upvotes" : 1,
+    "comments" : []
+}
+
+{
+    "_id" : ObjectId("5ea5e4d5a55a8a90f71e5821"),
+    "name" : "learn-node",
+    "upvotes" : 3,
+    "comments" : []
+}
+
+{
+    "_id" : ObjectId("5ea5e4faa55a8a90f71e5830"),
+    "name" : "my-thoughts-on-resumes",
+    "upvotes" : 0,
+    "comments" : []
+}
